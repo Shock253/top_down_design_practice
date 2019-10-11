@@ -1,0 +1,43 @@
+Starting a campfire
+
+Build fire ring
+  Collect rocks
+    Find rocks
+    Bring rocks back to safe space
+    Put rocks in circle
+
+Gather firewood
+  Find firewood
+    Find kindling
+    Find small sticks
+    Find logs
+  Bring firewood back to safe space
+
+Light fire
+  Arrange kindling
+  Put small sticks on top of kindling
+  Find match
+    Light match
+    Put match in kindling
+  Fan the flames
+
+Keep fire going
+  Add log one at a time
+
+Put out fire
+Collect water
+Dump water on fire
+
+
+Mailing a package
+
+Gather packaging supples
+	Get a box
+	Get something to ship
+	Get shipping label
+	Get tape
+
+Put it all together
+	Put item in box
+	Close box
+	Tape up box
