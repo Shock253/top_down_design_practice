@@ -9,6 +9,8 @@ Build fire ring
 Gather firewood
   Find firewood
     Find kindling
+      find pinecone
+      find pine needles
     Find small sticks
     Find logs
   Bring firewood back to safe space
@@ -23,6 +25,7 @@ Light fire
 
 Keep fire going
   Add log one at a time
+  Move logs for better airflow
 
 Put out fire
 Collect water
