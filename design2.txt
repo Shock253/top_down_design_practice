@@ -1,25 +1,25 @@
-1 Create Campfire
-  1.1 Collect fuel
-    1.1.1  Go to woods
-    1.1.2  Search area
-        1.1.2.1 Look for Kindling
-          1.1.2.1.1 Gather Kindling
-        1.1.2.2 Look for Logs
-          1.1.2.2.1 Gather Logs
-    1.1.3 Return to campsite
+Create Campfire
+  1 Collect fuel
+    1.1  Go to woods
+    1.2  Search area
+        1.2.1 Look for Kindling
+          1.2.1.1 Gather Kindling
+        1.2.2 Look for Logs
+          1.2.2.1 Gather Logs
+    1.3 Return to campsite
 
-  1.2 Set up fire pit
-    1.2.1 Clear area
-    1.2.3 Gather rocks
-      1.2.3.1 go to woods
-      1.2.3.2 Search area
-      1.2.3.3 Gather Rocks
-    1.2.4 Build ring
-      1.2.4.1 Arrange rocks
-    1.2.5 Build Teepee
-      1.2.5.1 Stack Logs
-      1.2.5.2 Arrange Kindling
+  2 Set up fire pit
+    2.1 Clear area
+    2.3 Gather rocks
+      2.3.1 go to woods
+      2.3.2 Search area
+      2.3.3 Gather Rocks
+    2.4 Build ring
+      2.4.1 Arrange rocks
+    2.5 Build Teepee
+      2.5.1 Stack Logs
+      2.5.2 Arrange Kindling
 
-  1.3 Light fire
-    1.3.1 Start Kindling
-    1.3.2 Fan flames
+  3 Light fire
+    3.1 Start Kindling
+    3.2 Fan flames
